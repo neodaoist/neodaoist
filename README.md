@@ -6,4 +6,4 @@
 - 🤔 I’m looking for help with ... code and score
 - 💬 Ask me about ... tech and music
 - 📫 How to reach me: ... [@neodaoist](https://twitter.com/neodaoist) on Twitter or @redacted on Instagram
-- ⚡ Fun fact: ... I love [vol](https://www.investopedia.com/terms/v/volatility.asp)
+- ⚡ Fun fact: ... my favorite scale degree is the submediant
