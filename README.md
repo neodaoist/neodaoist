@@ -1,6 +1,6 @@
 ### Hi there 👋
 
-- 🔭 I’m currently working on ... decentralized derivatives and classical music
+- 🔭 I’m currently working on ... correctness-driven development and classical music composition
 - 🌱 I’m currently learning ... DeFi design patterns and how to harmonize in the key of life
 - 👯 I’m looking to collaborate on ... software projects and chamber music
 - 🤔 I’m looking for help with ... code and score
